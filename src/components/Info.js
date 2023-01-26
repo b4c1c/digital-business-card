@@ -1,5 +1,6 @@
 import { FaMailBulk } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
+import avatar from "../images/myAvatar.png";
 
 
 const Info = () => {
@@ -10,7 +11,7 @@ const Info = () => {
 
         <div className="info-container">
             
-            <img className="avatar-img" src="/images/myAvatar.png" alt="" />
+            <img className="avatar-img" src={ avatar } alt="avatar" />
             
             <h4>b4c1c</h4>
             <p>frontend developer</p>
