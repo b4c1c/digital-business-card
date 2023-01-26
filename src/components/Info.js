@@ -15,8 +15,8 @@ const Info = () => {
             <h4>b4c1c</h4>
             <p>frontend developer</p>
             <div className="btns-container">
-                <a className="btns btn-email"> <FaMailBulk />Email</a>
-                <a className="btns btn-linkedin"> <FaLinkedin />LinkedIn</a>
+                <a href="https://www.linkedin.com/in/goran-b-59a170134/"  className="btns btn-email"> <FaMailBulk />Email</a>
+                <a href="https://www.linkedin.com/in/goran-b-59a170134/" className="btns btn-linkedin"> <FaLinkedin />LinkedIn</a>
             </div>
         </div>
     );

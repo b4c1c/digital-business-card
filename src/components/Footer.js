@@ -6,13 +6,13 @@ const Footer = () => {
     return ( 
         <div className="footer-section">
             {/* <h5>Footer section</h5> */}
-            <a href="" className="icons-social">
+            <a href="https://twitter.com/b4c1c_" className="icons-social">
                 <FaTwitterSquare />
             </a>
-            <a href="" className="icons-social">
+            <a href="https://github.com/b4c1c" className="icons-social">
                 <FaGithubSquare />
             </a>
-            <a href="" className="icons-social">
+            <a href="https://www.linkedin.com/in/goran-b-59a170134/" className="icons-social">
                 <FaLinkedin />
             </a>
             
